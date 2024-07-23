@@ -51,4 +51,4 @@ This Streamlit application allows users to input their geographic coordinates an
 To run the application, execute the script using Streamlit:
 
 ```bash
-streamlit run your_script_name.py
+streamlit run MapPlotting.py
