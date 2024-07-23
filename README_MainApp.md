@@ -59,3 +59,9 @@ This Streamlit application allows users to input patient conditions and filters 
 - `ollama` (Note: Ollama should also be installed locally from https://ollama.com/. To pull the embedding model to your system, run `ollama pull mxbai-embed-large` in the terminal)
 - `geopy.distance` (geodesic)
 - `pydeck`
+
+### Running the Application
+To run the application, execute the script using Streamlit:
+
+```bash
+streamlit run main.py
