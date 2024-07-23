@@ -56,6 +56,6 @@ This Streamlit application allows users to input patient conditions and filters 
 - `pandas`
 - `numpy`
 - `sklearn.metrics.pairwise` (cosine_similarity)
-- `ollama` (Note: Ollama should also be installed locally from https://ollama.com/. To pull the embedding model to your system, run 'ollama pull mxbai-embed-large' in the terminal)
+- `ollama` (Note: Ollama should also be installed locally from https://ollama.com/. To pull the embedding model to your system, run `ollama pull mxbai-embed-large` in the terminal)
 - `geopy.distance` (geodesic)
 - `pydeck`
